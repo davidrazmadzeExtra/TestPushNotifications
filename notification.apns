@@ -1,0 +1,8 @@
+{
+  "Simulator Target Bundle": "com.raz.TestPushNotifications",
+  "aps": {
+    "alert": "Push Notifications Test",
+    "sound": "default",
+    "badge": 1
+  }
+}
